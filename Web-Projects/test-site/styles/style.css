@@ -1,10 +1,17 @@
 html {
+  background-color: #00539f;
+}
+
+html {
   font-size: 10px;
   font-family: 'Rubik', sans-serif;
 }
 
 h3 {
   margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
   font-size: 60px;
   text-align: center;
 }
@@ -12,7 +19,20 @@ h3 {
 p,
 li {
   font-size: 16px;
-  color: red;
   line-height: 2;
   letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
 }
