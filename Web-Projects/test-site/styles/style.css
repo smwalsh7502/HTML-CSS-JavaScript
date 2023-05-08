@@ -1,3 +1,17 @@
-p {
+html {
+  font-size: 10px;
+  font-family: 'Rubik', sans-serif;
+}
+
+h3 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
   color: red;
+  line-height: 2;
+  letter-spacing: 1px;
 }
