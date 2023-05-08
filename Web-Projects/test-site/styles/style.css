@@ -4,6 +4,7 @@ html {
 }
 
 h3 {
+  margin: 0;
   font-size: 60px;
   text-align: center;
 }
